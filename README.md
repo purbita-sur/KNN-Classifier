@@ -4,4 +4,5 @@ In this project I have built a KNN Classifier from Scratch.This is implemented i
 1. Pandas
 2. NumPy
 3. Operator
-4. Sckit-Learn
+4. Counter
+5. Sckit-Learn
